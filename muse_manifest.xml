@@ -1,0 +1,128 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="starfox.com" resolutions="1x" timestamp="1642276651541">
+  <folder name="css">
+    <file name="site_global.css" crc="4091947754"/>
+    <file name="master_a-master.css" crc="469903002" ref="tienda:recurso:index"/>
+    <file name="tienda.css" crc="3788775615" ref="tienda"/>
+    <file name="iefonts_tienda.css" crc="42764156" ref="tienda"/>
+    <file name="recurso.css" crc="347440432" ref="recurso"/>
+    <file name="iefonts_recurso.css" crc="4130939635" ref="recurso"/>
+    <file name="index.css" crc="514401655" ref="index"/>
+    <file name="iefonts_index.css" crc="3898037114" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="terminos-y-condiciones.pdf" crc="3947755973" seo="true" mt="1628212333000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda:recurso"/>
+    <file name="museutils.js" crc="340535759" ref="index:tienda:recurso"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tienda:recurso"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:tienda:recurso"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:tienda:recurso"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:tienda"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:tienda:recurso"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:tienda:recurso"/>
+    <file name="require.js" crc="7928878" ref="index:tienda:recurso"/>
+    <file name="webpro.js" crc="4059564322" ref="tienda"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="tienda"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="tienda"/>
+    <file name="touchswipe.js" crc="4075097462" ref="tienda"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="249491909" ref="index"/>
+    <file name="logo_principal.png" crc="162832799" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u4789_states.png" crc="4157695574" ref="index"/>
+    <file name="u4789_states-r.png" crc="3907545755" ref="index"/>
+    <file name="maps.png" crc="3939885210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="standard_1.gif" crc="237454379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="16421709" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram39x40.png" crc="251766776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="392016517" seo="true" ref="index:tienda:recurso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="recurso" alt=""/>
+    </file>
+    <file name="facebook.png" crc="247155588" seo="true" ref="index:tienda:recurso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="recurso" alt=""/>
+    </file>
+    <file name="tiktok.png" crc="481794388" seo="true" ref="index:tienda:recurso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="recurso" alt=""/>
+    </file>
+    <file name="spotify.png" crc="290685620" seo="true" ref="index:tienda:recurso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="recurso" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4182497115" seo="true" ref="index:tienda:recurso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="recurso" alt=""/>
+    </file>
+    <file name="discord.png" crc="4290543258" seo="true" ref="index:tienda:recurso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="recurso" alt=""/>
+    </file>
+    <file name="rango -vip.png" crc="3938877406" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="rango premium.png" crc="177092638" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="rango vip permanente.png" crc="81848015" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="rango premium permanente.png" crc="516348235" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="imagen pegada 518x89.jpg" crc="372604065" seo="true" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="imagen pegada 423x79.jpg" crc="147210896" seo="true" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="recarga 500,000.png" crc="4262091937" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="recarga 500,0002.png" crc="4262091937" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="recarga 1,000,000.png" crc="4223941879" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="pico.jpg" crc="4167718630" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="hacha.jpg" crc="285670112" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="espada.jpg" crc="4255989925" ref="tienda">
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="tl.png" crc="3967792855" seo="true" ref="recurso">
+      <caption webpage="recurso" alt=""/>
+    </file>
+    <file name="optifine.jpg" crc="3764942529" seo="true" ref="recurso">
+      <caption webpage="recurso" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3918905062" seo="true" mt="1642276013113" redirect="true"/>
+  <file name="tienda.html" crc="286742507" seo="true" mt="1642276493929" redirect="true"/>
+  <file name="recurso.html" crc="241533450" seo="true" mt="1642276512269" redirect="true"/>
+</manifest>
